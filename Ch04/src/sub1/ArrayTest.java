@@ -3,6 +3,7 @@ package sub1;
  * 날짜 : 2023/12/28
  * 이름 : 정태영
  * 내용 : 배열 실습하기 
+ * 
  */
 public class ArrayTest {
 	public static void main(String[] args) {
