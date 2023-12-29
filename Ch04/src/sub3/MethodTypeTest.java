@@ -7,6 +7,7 @@ package sub3;
  */
 
 public class MethodTypeTest {
+	
 	public static void main(String[] args) { // 메서드는 소문자 시작
 		
 		double y1 = type1(1.5);
