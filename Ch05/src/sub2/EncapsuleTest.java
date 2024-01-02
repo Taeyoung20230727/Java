@@ -29,7 +29,6 @@ public class EncapsuleTest {
 		//Account 객체 생성 및 초기화
 		 Account kb = new Account("국민은행", "123-10-1001", "김유신", 10000);
 
-		
 		kb.deposit(80000);
 		kb.withdraw(7000);
 		kb.show();
