@@ -13,10 +13,10 @@ public class Test03 {
 		int num = 1;
 		int result;
 		
-		result = num++;
+		result = num++;		// 대입 후 증가
 		System.out.println("result : " + result);
 		
-		result = ++num;
+		result = ++num;		// 증가 후 대입
 		System.out.println("result : " + result);
 		
 		result = num--;

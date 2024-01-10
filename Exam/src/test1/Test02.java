@@ -23,10 +23,8 @@ public class Test02 {
 		System.out.print("태어난 년도 입력 : ");
 		birth = sc.nextInt();
 		
-		sc.nextLine();
-		
 		System.out.print("이름 입력 : ");
-		name = sc.nextLine();
+		name = sc.next();
 			
 		int age = year - birth;
 				

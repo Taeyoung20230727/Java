@@ -14,9 +14,9 @@ public class Test09 {
 		for(int i=1; i<=9; i++) {
 			
 			if(i<=5) {
-				count = 2 * i - 1;
+				count++;
 			}else {
-				count = 2 * (10 - i) - 1;
+				count--;
 			}
 			
 			for(int j=1; j<=5-count; j++) {
